@@ -1,8 +1,6 @@
 
 # Game Activity Analysis Dashboard
 
-![Dashboard Screenshot](https://public.tableau.com/static/images/Ga/GameActivityAnalysisDashboard/Dashboard1/1.png)
-
 ## Project Overview
 
 This Tableau project was created to analyze game activity data, focusing on key metrics such as user engagement, playtime, and demographic insights. The project consists of three distinct sheets combined into a comprehensive dashboard, offering an in-depth view of user behavior across different time periods and demographic groups.
@@ -21,12 +19,21 @@ The final dashboard is an interactive tool that provides comprehensive insights 
 
 - **Trends in Total Number of Users and Battle Pass Ratio Over Time**: 
   - This line chart displays the month-over-month changes in the total number of users and the ratio of users participating in Battle Pass activities.
+
+ <img width="675" alt="image" src="https://github.com/user-attachments/assets/8102defe-f1b8-47eb-a46d-71815fe08190">
+
   
 - **Monthly Average Total Playtime by Game**: 
   - A bar chart showing the average total playtime (in seconds) per user for each game, broken down by month. Playtime is labeled in a "HH:MM" format to give a clear understanding of user engagement.
+
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/5a9862bd-7dc9-42e0-9c6b-cf0f65a7c85e">
+
   
 - **User Distribution by Age Range and Quarterly Activity**:
   - A heatmap that visualizes the number of users in different age ranges over each quarter of the year. The size and intensity of the squares represent the total number of users within each age group.
+
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/8312c5ba-be67-4764-931e-29b351d805dd">
+
 
 ### Filters
 
@@ -60,7 +67,3 @@ The data used for this project is simulated or anonymized game activity data. It
 ## Conclusion
 
 This project offers a detailed view of user behavior in gaming, allowing stakeholders to make informed decisions based on visualized data. Whether you're looking to understand overall user trends, specific game performance, or demographic engagement, this dashboard provides a comprehensive tool for analysis.
-
-## Contact
-
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
